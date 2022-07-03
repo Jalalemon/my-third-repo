@@ -3,3 +3,7 @@ h1 {
     background-color: darkgoldenrod;
     border: 2px dashed black;
 }
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
